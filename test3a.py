@@ -7,7 +7,7 @@ for x in range(10)
 
 print(X)
 print("Hello")print("Hello")
-
+print("Hello")
 print("Hello")
 print("Hello")
 print("Hello")
